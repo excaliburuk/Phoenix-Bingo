@@ -36,7 +36,7 @@ A complete, all-in-one dual-screen Windows desktop **90-Ball & 75-Ball Bingo** c
 * **Display:** Single screen or Dual-screen setup (HDMI / wireless display recommended for the audience Stage screen)
 
 ## 🚀 Quick Start
-1. Download and extract the latest release archive (or run the installer).
+1. Download and run the installer
 2. *(Optional)* Install your custom branding package to apply your logo and event details to both the Stage screen and printed tickets.
 3. Use the built-in **Ticket Generator** to print your 90-ball strips or 75-ball cards and save the `.mbtickets` file.
 4. Connect your external TV or projector in **Extend** mode (`Win + P` → *Extend*), launch **Phoenix Bingo Standalone**, and start calling!
