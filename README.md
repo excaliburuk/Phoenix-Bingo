@@ -43,3 +43,25 @@ A complete, all-in-one dual-screen Windows desktop **90-Ball & 75-Ball Bingo** c
 
 ## 📄 Licence
 Created by **Phoenix Parties** — free for non-commercial community and party events with attribution. See `Licence.txt` for full terms.
+
+
+
+<img width="3840" height="1080" alt="Screenshot 2026-11-15 025943" src="https://github.com/user-attachments/assets/206bc8a9-5d33-4408-8093-0907634d78e4" />
+
+
+<img width="3840" height="1080" alt="Screenshot 2026-11-15 030152" src="https://github.com/user-attachments/assets/e670056f-7596-4243-80af-888674703891" />
+
+
+<img width="3840" height="1080" alt="Screenshot 2026-11-15 030154" src="https://github.com/user-attachments/assets/1ab1e37d-c426-4594-9d22-042f9f8e37e8" />
+
+
+<img width="3840" height="1080" alt="Screenshot 2026-11-15 030507" src="https://github.com/user-attachments/assets/85546b1c-4365-4eba-8f11-b31d058b6cb4" />
+
+
+<img width="3840" height="1080" alt="Screenshot 2026-11-15 030509" src="https://github.com/user-attachments/assets/eb5e2a24-9657-4bfb-8a00-abb1ceb730f0" />
+
+
+<img width="3840" height="1080" alt="Screenshot 2026-11-15 030206" src="https://github.com/user-attachments/assets/17868e35-2559-4380-8863-cffaec8955d2" />
+
+
+<img width="3840" height="1080" alt="Screenshot 2026-11-15 030243" src="https://github.com/user-attachments/assets/64433405-2887-41cc-942f-3573437bccfb" />
