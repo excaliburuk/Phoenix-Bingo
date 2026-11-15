@@ -1,22 +1,43 @@
 Phoenix Parties Software Licence
 Copyright (c) 2026 Phoenix Parties
 
-This software is provided free of charge. By downloading, installing, or using this software, you agree to the following terms:
+This software is provided free of charge. By downloading, installing, 
+or using this software, you agree to the following terms:
 
 1. PERMITTED USE
-You may use this software to host events, including commercial and for-profit events (e.g., parties, pub quizzes, charity nights), provided you comply with the branding requirements in Section 2.
+You may use this software to host events, including commercial 
+and for-profit events (e.g., parties, pub quizzes, charity nights), 
+provided you comply with the branding requirements in Section 2.
 
 2. BRANDING AND ATTRIBUTION (STRICTLY ENFORCED)
 To use this software, you must EITHER:
-(a) Keep the default "Phoenix Parties" branding intact and visible within the application and on the stage screen; OR
-(b) Install a valid, digitally signed Phoenix Parties branding package (e.g., `.ppgsbrand`) to replace the default branding.
-Removing, hiding, or bypassing the default Phoenix Parties branding without a valid, signed branding package is strictly prohibited.
+(a) Keep the default "Phoenix Parties" branding intact and visible 
+    within the application and on the stage screen; OR
+(b) Install a valid, digitally signed Phoenix Parties branding 
+    package (e.g., .ppgsbrand) to replace the default branding.
+
+Removing, hiding, or bypassing the default Phoenix Parties branding 
+without a valid, signed branding package is strictly prohibited.
 
 3. STRICTLY NO RESALE
-You may NOT sell, rent, lease, or sublicense this software. You may NOT charge a fee for its download, distribution, or installation. You may NOT bundle this software with any paid product or service without explicit written permission from Phoenix Parties.
+You may NOT sell, rent, lease, or sublicense this software. 
+You may NOT charge a fee for its download, distribution, 
+or installation. You may NOT bundle this software with any paid 
+product or service without explicit written permission from 
+Phoenix Parties.
 
 4. MODIFICATION
-You may modify the software for your own use, but if you share a modified version with others, you must do so for FREE, provide this LICENSE file with it, and ensure the branding requirements in Section 2 are met.
+You may modify the software for your own use, but if you share a 
+modified version with others, you must do so for FREE, provide 
+this LICENSE file with it, and ensure the branding requirements 
+in Section 2 are met.
 
 5. NO WARRANTY
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, 
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES 
+OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND 
+NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT 
+HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, 
+WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING 
+FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR 
+OTHER DEALINGS IN THE SOFTWARE.
